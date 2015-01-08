@@ -1,0 +1,7 @@
+{
+  "id": "user",
+  "ssh_keys": [
+    "ssh-rsa ssh-key"
+  ], 
+  "shell": "/bin/bash"
+}

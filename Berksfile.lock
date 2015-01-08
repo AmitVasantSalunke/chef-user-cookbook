@@ -1,0 +1,6 @@
+DEPENDENCIES
+  user_mg
+    path: cookbook/user_mg
+
+GRAPH
+  user_mg (0.1.0)

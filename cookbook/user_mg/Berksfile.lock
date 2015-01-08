@@ -1,0 +1,7 @@
+DEPENDENCIES
+  user_mg
+    path: .
+    metadata: true
+
+GRAPH
+  user_mg (0.1.0)
